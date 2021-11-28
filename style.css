@@ -107,7 +107,7 @@ ul li .active {
 .image-box {
     position: absolute;
     right: 15%;
-    bottom: 0;
+    bottom: -0.5%;
 }
 
 .image {
